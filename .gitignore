@@ -1,6 +1,9 @@
 .vs/
 x64/
 
-minesweeper\minesweeper\minesweeper.vcxproj
-minesweeper\minesweeper\minesweeper.vcxproj.filters
-minesweeper\minesweeper\minesweeper.vcxproj.user
+CS161-Minesweeper\minesweeper\minesweeper.vcxproj
+CS161-Minesweeper\minesweeper\minesweeper.vcxproj.filters
+CS161-Minesweeper\minesweeper\minesweeper.vcxproj.user
+CS161-Minesweeper\minesweeper\Resource.aps
+CS161-Minesweeper\minesweeper\resource.h
+CS161-Minesweeper\minesweeper\Resource.rc
