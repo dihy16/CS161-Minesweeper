@@ -1,63 +1,6 @@
 **BÁO CÁO GAME MINESWEEPER**
 
-> Tên: Đinh HồGia Huy\
-> MSSV: 23125036\
-> Lớp: 23TT1
->
-> **1. Những tính năng đã hoàn thành:**\
-> Tính năng đã hoàn thành:\
-> **Basic features:**\
-> 1. Drawing the board (including cells, mines and flags).
->
-> 2\. Changing the state of each cell when it is selected.
->
-> 3\. Timer.
->
-> 4\. Functions: new game, change board dimensions. Select a function
-> from the console screen.
->
-> 5\. Randomize positions of the mines.
->
-> 6\. Receiving a new position of the pointer (to select a cell) from
-> the console screen.
->
-> 7\. Saving the current state of the board and loading in the next
-> playing session.
->
-> 8\. Saving high scores.
->
-> **Other features:**\
-> - Using keyboard (arrow keys) to select a cell.\
-> - Using struct.
->
-> Tính năng chưa hoàn thành:\
-> - Rendering images: em không dùng hình ảnh ngoài mà chỉdùng console.
->
-> **2. Cấu trúc mã nguồn:**\
-> Source file em có các file sau:\
-> - **main.cpp**: file chứa hàm main, em dùng hàm chỉnh lại kích thước
-> console, gọi hàm vẽtiêu đềvà vẽmenu chính, gọi hàm xửlý sựkiện nhập
-> từbàn phím\
-> - **main.h**: file header cho file main.cpp, em đặt các struct trong
-> file này, gồm 3 struct là Board, Cell, Timer.
->
-> \- **Console.cpp**: chứa hàm xửlý màn hình console\
-> - **Console.h**: header file cho file Console.cpp, gọi header file
-> windows.h- **functions.cpp**: file chứa những function chính đểxửlý
-> sựkiện game, in text ra màn hình console, được chia ra theo chức năng
-> bằng comment.
-
-+-----------------------------------+-----------------------------------+
-| \-                                | > **functions.h**: header file    |
-|                                   | > cho file functions.cpp          |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
-
 > **3. Hướng dẫn sửdụng:**\
-> (\*LƯU Ý: không biết sao khi em chạy chương trình trong solution thì
-> không sao nhưng em chạy bằng file .exe thỉnh thoảng màn hình menu nó
-> bịlỗi như bên dưới. Thầy thoát ra vào lại 1 vài lần thì nó sẽbình
-> thường ạ(nhưng sau đấy vẫn sẽbịlại).
 
 ![](vertopal_8a88c408b64841bc9473e6d0dfb0f645/media/image1.png){width="6.270833333333333in"
 height="3.301388888888889in"}
