@@ -2,7 +2,7 @@
 
 **3. Hướng dẫn sử dụng:**\
 
-![](vertopal_8a88c408b64841bc9473e6d0dfb0f645/media/image1.png){width="6.270833333333333in"
+![](minesweeper/report-img/image1.png){width="6.270833333333333in"
 height="3.301388888888889in"}
 
 **ĐIỀU KHIỂN TRONG GAME Ở TẤT CẢ MÀN HÌNH**
