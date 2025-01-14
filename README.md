@@ -1,14 +1,14 @@
 **BÁO CÁO GAME MINESWEEPER**
 
-> **3. Hướng dẫn sửdụng:**\
+**3. Hướng dẫn sử dụng:**\
 
 ![](vertopal_8a88c408b64841bc9473e6d0dfb0f645/media/image1.png){width="6.270833333333333in"
 height="3.301388888888889in"}
 
-> **ĐIỀU KHIỂN TRONG GAME ỞTẤT CẢMÀN HÌNH**
+**ĐIỀU KHIỂN TRONG GAME Ở TẤT CẢ MÀN HÌNH**
 
 +-----------------------------------+-----------------------------------+
-| > \-\                             | > sửdụng những phím mũi tên lên,  |
+| > \-\                             | > sử dụng những phím mũi tên lên,  |
 | > -\                              | > xuống, trái, phải đểđiều hướng, |
 | > -\                              | > phím Enter đểchọn,\             |
 | > -                               | > phím ESC đểthoát.               |
@@ -16,12 +16,11 @@ height="3.301388888888889in"}
 |                                   | > phím A đểmởô, phím D đểcắm cờ   |
 +===================================+===================================+
 +-----------------------------------+-----------------------------------+
-
-> **Màn hình chính**: gồm các phím chức năng:\
-> +New game : bắt đầu game mới\
-> +Resume game : chơi game được lưu\
-> +Highscore: xem bảng điểm highscore\
-> + Quit : thoát game, cũng có thểthoát bằng phím ESC
+ **Màn hình chính**: gồm các phím chức năng:\
++New game : bắt đầu game mới\
++Resume game : chơi game được lưu\
++Highscore: xem bảng điểm highscore\
++Quit : thoát game, cũng có thểthoát bằng phím ESC
 >
 > ![](vertopal_8a88c408b64841bc9473e6d0dfb0f645/media/image2.png){width="6.270832239720035in"
 > height="4.113888888888889in"}
